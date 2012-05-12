@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Manage Upload Types
-Plugin URI: http://www.madea.net/projects/wordpress/plugins/manage-upload-types/
+Plugin URI: http://www.madea.net/projects/wordpress-plugins/manage-upload-types/
 Description: Enables changing the types of files allowed to be uploaded to the media library.
 Version: 1.0
 Author: Jeremy Madea
