@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Manage Upload Types
-Plugin URI: http://www.madea.net/projects/wordpress/plugins/manage-upload-types/
+Plugin URI: http://www.madea.net/projects/wordpress-plugins/manage-upload-types/
 Description: Enables changing the types of files allowed to be uploaded to the media library.
-Version: 0.9
+Version: 1.1
 Author: Jeremy Madea
 Author URI: http://madea.net/
 License: GPL2
@@ -91,7 +91,7 @@ function jm_mut_setting_section_callback() {
 	echo '<p>The extensions below are those permitted for uploaded files.</p>' . "\n";
 	$jm_mut_mime_types = get_option('jm_mut_mime_types'); 
 	echo '<table id="jm_mut_mimetypes_table">' . "\n";
-	echo '  <tr class="jm_mut_mimetype_thtr">'
+	echo '  <tr class="jm_mut_mimetype_tr">'
 	.    '<th>Extension</th>'
 	.    '<th>Mime Type</th>'
 	.    "</tr>\n";
