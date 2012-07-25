@@ -32,6 +32,9 @@ No. The Save Changes button is necessary to save changes mades to other options 
 
 == Changelog ==
 
+= 1.2 = 
+* Fix for small bug introduced in 1.1. Please update.
+
 = 1.1 = 
 * Minor cosmetic issue resolved. 
 
