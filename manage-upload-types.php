@@ -91,7 +91,7 @@ function jm_mut_setting_section_callback() {
 	echo '<p>The extensions below are those permitted for uploaded files.</p>' . "\n";
 	$jm_mut_mime_types = get_option('jm_mut_mime_types'); 
 	echo '<table id="jm_mut_mimetypes_table">' . "\n";
-	echo '  <tr class="jm_mut_mimetype_tr">'
+	echo '  <tr class="jm_mut_mimetype_thtr">'
 	.    '<th>Extension</th>'
 	.    '<th>Mime Type</th>'
 	.    "</tr>\n";
