@@ -4,7 +4,7 @@ Donate link: http://madea.net/projects/
 Tags: media, upload, filetypes, mimetypes
 Requires at least: 3.3.1
 Tested up to: 3.4.1
-Stable tag: 1.1
+Stable tag: 1.2
 
 This plugin adds a panel to the Settings->Media page, enabling changes to the file types which are permitted to be uploaded to the media library. 
 
